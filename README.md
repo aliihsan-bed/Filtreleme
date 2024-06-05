@@ -1,1 +1,1 @@
-Basit bir arayüz kullanarak fotoğraflar filtreleme uygulamak.
+Basit bir arayüz kullanarak fotoğrafları filtreler uygulamak.
